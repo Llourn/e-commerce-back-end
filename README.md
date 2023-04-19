@@ -6,6 +6,10 @@ A NodeJS application designed to be used for an e-commerce site/app so product i
 
 Built with NodeJS, ExpressJS, MySQL and Sequelize.
 
+
+https://user-images.githubusercontent.com/4216705/233223118-16d674c5-8c7e-4405-a44c-b25e29282e96.mov
+
+
 ## Table of Contents
 
 - [Installation](#installation)
